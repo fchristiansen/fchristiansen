@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphygif" width ="25"><b> Skills</b>
 
-<p align="center">
-
 **Programming Languages**:
 
 ![My Skills](https://skillicons.dev/icons?i=javascript,ts,php)
@@ -63,6 +61,10 @@ Here are some ideas to get you started:
 **Cloud Hosting**:
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel)
+
+**Studying**:
+
+![My Skills](https://skillicons.dev/icons?i=python,godot)
 
 <!-- # <b> Let's Connect..!</b>
 
