@@ -1,6 +1,6 @@
 # Hi there! <img width="30" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />
 
-### I'm a Full-Stack Developer & WordPress Developer
+### I'm a Full-Stack & WordPress Developer
 
 With over 10 years of experience, I specialize in creating dynamic and engaging websites.
 
