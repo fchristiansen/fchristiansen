@@ -50,7 +50,7 @@ With over 10 years of experience, I specialize in creating dynamic and engaging 
 
 **Studying**:
 
-![My Skills](https://skillicons.dev/icons?i=python,godot)
+![My Skills](https://skillicons.dev/icons?i=python,astro,godot)
 
 ## 👇 <b> Let's Connect!</b>
 
