@@ -1,22 +1,8 @@
 # Hi there 👋
 
-### Full-Stack Developer | WordPress Developer
+### I'm a Full-Stack Developer & WordPress Developer
 
-Full-Stack Developer with over 10 years of experience, specializing in the creation of dynamic and engaging websites.
-
-<!--
-**fchristiansen/fchristiansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning .. python,
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+With over 10 years of experience, I specialize in creating dynamic and engaging websites.
 
 # <img width="25" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdvZ2I4eGdweHd3Mmp3a28xYWRwaGIydDIzOXM4bXVtbm5ra2podyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"><b> About Me</b>
 
