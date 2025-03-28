@@ -52,6 +52,6 @@ With over 10 years of experience, I specialize in creating dynamic and engaging 
 
 ![My Skills](https://skillicons.dev/icons?i=python,godot)
 
-## 👇 <b> Let's Connect..!</b>
+## 👇 <b> Let's Connect!</b>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/felipe-christiansen/)
