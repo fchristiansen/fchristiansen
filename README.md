@@ -26,11 +26,15 @@ With over 10 years of experience, I specialize in creating dynamic and engaging 
 
 **Front-End Stack**:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,vite,react,tailwind,bootstrap,sass,wordpress)
+![My Skills](https://skillicons.dev/icons?i=html,css,vite,react,tailwind,bootstrap,sass)
 
 **Back-End Stack**:
 
-![My Skills](https://skillicons.dev/icons?i=mongo,express,nodejs,mysql,php,wordpress)
+![My Skills](https://skillicons.dev/icons?i=mongo,express,nodejs,mysql,php)
+
+**CMS Development**:
+
+![My Skills](https://skillicons.dev/icons?i=wordpress,php,mysql)
 
 **Version Control**:
 
