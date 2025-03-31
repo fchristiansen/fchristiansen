@@ -20,39 +20,39 @@ With over 10 years of experience, I specialize in creating dynamic and engaging 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphygif" width ="30"><b> Skills</b>
 
-**Programming Languages**:
+### **Programming Languages**:
 
 ![My Skills](https://skillicons.dev/icons?i=javascript,ts,php)
 
-**Front-End Stack**:
+### **Front-End Stack**:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,vite,react,tailwind,bootstrap,sass)
 
-**Back-End Stack**:
+### **Back-End Stack**:
 
 ![My Skills](https://skillicons.dev/icons?i=mongo,express,nodejs,mysql,php)
 
-**CMS Development**:
+### **CMS Development**:
 
 ![My Skills](https://skillicons.dev/icons?i=wordpress,php,mysql)
 
-**Version Control**:
+### **Version Control**:
 
 ![My Skills](https://skillicons.dev/icons?i=git,github)
 
-**Development Tools**:
+### **Development Tools**:
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,sublime,md,npm,powershell,obsidian)
 
-**UI/UX & Design Tools**:
+### **UI/UX & Design Tools**:
 
 ![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,xd)
 
-**Cloud Hosting**:
+### **Cloud Hosting**:
 
 ![My Skills](https://skillicons.dev/icons?i=netlify,vercel)
 
-**Studying**:
+### **Studying**:
 
 ![My Skills](https://skillicons.dev/icons?i=python,astro,godot)
 
